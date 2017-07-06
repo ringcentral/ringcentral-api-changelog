@@ -8,6 +8,8 @@ extra_css: [extra.css]
 extra_javascript: [fonts.js]
 pages:
 - Preface: 'index.md'
+- 'v.1.0.31 (Jul 2017)': '1_0_31.md'
 - 'v.1.0.30 (Apr 2017)': '1_0_30.md'
 - 'v.1.0.29 (Feb 2017)': '1_0_29.md'
 - 'v.1.0.28 (Dec 2016)': '1_0_28.md'
+
