@@ -212,7 +212,7 @@ code {
 	font-size: 15px;
 	font-family: "courier new",courier,monospace;
 	color: #585858;
-	font-weight: 600;
+	font-weight: 200;
 }
 
 code.hljs {
@@ -238,6 +238,10 @@ ol {
 
 a {
     color: #0073ae;
+}
+
+a code {
+  color: #0073ae;
 }
 
 a:visited {
