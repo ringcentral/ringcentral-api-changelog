@@ -140,9 +140,7 @@
     background-color: #fff !important;
 }
 
-.rst-content table.docutils {
-    border: none;
-}
+.rst-content table.docutils { border: none; width: 100%; }
 
 .rst-content table.docutils th {
     padding: 15px 10px;
@@ -251,8 +249,4 @@ a:visited {
 
 a.icon {
 	font-weight: 200;
-}
-
-table .docutils {
-  width: 100%;
 }
