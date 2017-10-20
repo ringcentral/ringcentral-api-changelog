@@ -114,6 +114,7 @@
 
 .wy-nav-content {
 	background-color: #fff;
+  max-width: 1200px;
 }
 
 .wy-nav-content-wrap {
@@ -250,4 +251,8 @@ a:visited {
 
 a.icon {
 	font-weight: 200;
+}
+
+table .docutils {
+  width: 100%;
 }
