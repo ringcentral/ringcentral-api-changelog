@@ -8,7 +8,9 @@ Basepath for all URLs: `https://platform.ringcentral.com/restapi/v1.0`.
 |         |Method|Resource|Description|
 |---------|------|--------|------------------|
 |         |`GET`|[`/account/{accountId}/call-recording`](***)|[Beta] Retrieval of call recording settings|
-
+|&#x1F510;|`PUT`|[`/account/{accountId}/call-recording`](***)|[Beta] Update of call recording settings|
+|         |`GET`|[`/account/{accountId}/call-recording/extensions`](***)|[Beta] Returns the list of extensions to be recorded|
+|&#x1F510;|`POST`|[`/account/{accountId}/call-recording/bulk-assign`](***)|[Beta] Creates or updates the list of extensions to be recorded|
 
 
 
