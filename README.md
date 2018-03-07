@@ -3,6 +3,7 @@
 This document provides full information about API changes in particular version.
 
 ## Versions
+* [1.0.33 (Release 9.4)](docs/1_0_33.md)
 * [1.0.32 (Release 9.3)](docs/1_0_32.md)
 * [1.0.31 (Release 9.2)](docs/1_0_31.md)
 * [1.0.30 (Release 9.1)](docs/1_0_30.md)
