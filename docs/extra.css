@@ -1,7 +1,3 @@
-.wy-body-for-nav {
-	background: #fff;
-}
-
 .wy-nav-top {
 	background-color: #fff;
 	color: #0073ae;
@@ -175,10 +171,6 @@
 }
 
 .rst-versions {
-	display: none;
-}
-
-.ethical-rtd {
 	display: none;
 }
 
