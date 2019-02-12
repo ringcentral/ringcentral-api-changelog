@@ -1,3 +1,7 @@
+li.toctree-l2:first-child,
+li.toctree-l3:first-child {
+    display: none;
+}
 .wy-nav-top {
 	background-color: #fff;
 	color: #0073ae;
@@ -33,6 +37,7 @@
 
 .wy-nav-side {
 	background-color: #fff;
+  height: 100%;
 	
 }
 
@@ -62,7 +67,12 @@
 }
 
 .wy-menu-vertical li.toctree-l3 {
-	margin-left: 20px;
+	margin-left: 0px;
+}
+
+a.toctree-l3 {
+  margin-left: 40px;
+  font-size: 12px;
 }
 
 .wy-menu-vertical li a.toctree-l4 {
@@ -94,18 +104,27 @@
 }
 
 .wy-menu-vertical .subnav a {
-    padding: 10px 0;
+  padding: 10px 0;
 	color: #585858;
+  margin-left: 20px;
 }
 
 .wy-menu-vertical .subnav li.toctree-l1 {
 	margin: 0 20px 0 50px;
 }
 
+.wy-menu-vertical .subnav li.current > ul li a {
+  padding-left: 0px;
+}
+
+.wy-menu-vertical .subnav li.current > a {
+  padding-left: 0px;
+}
+
 .wy-menu-vertical span {
     line-height: 18px;
     padding: 10px 0;
-	margin: 0 20px 0 30px;
+
     font-size: 14px;
 	font-weight: 400;
     color: #585858;
@@ -114,7 +133,7 @@
 
 .wy-nav-content {
 	background-color: #fff;
-  max-width: 1200px;
+  max-width: 100%;
 }
 
 .wy-nav-content-wrap {
@@ -140,7 +159,9 @@
     background-color: #fff !important;
 }
 
-.rst-content table.docutils { border: none; width: 100%; }
+.rst-content table.docutils {
+    border: none;
+}
 
 .rst-content table.docutils th {
     padding: 15px 10px;
@@ -172,6 +193,14 @@
 
 .rst-versions {
 	display: none;
+}
+
+.rst-versions.shift {
+  display: none;
+}
+
+.rst-versions.rst-badge {
+  display: none !important;
 }
 
 body {
@@ -210,8 +239,8 @@ code {
 	border: none;
 	font-size: 15px;
 	font-family: "courier new",courier,monospace;
-	color: black;
-	font-weight: 200;
+	color: #585858;
+	font-weight: 600;
 }
 
 code.hljs {
@@ -237,10 +266,6 @@ ol {
 
 a {
     color: #0073ae;
-}
-
-a code {
-  color: #0073ae;
 }
 
 a:visited {
