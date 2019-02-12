@@ -117,6 +117,10 @@ a.toctree-l3 {
   padding-left: 0px;
 }
 
+.wy-menu-vertical .subnav a.toctree-l3 {
+  margin-left: 40px;
+}
+
 .wy-menu-vertical span {
     line-height: 18px;
     padding: 10px 0;
