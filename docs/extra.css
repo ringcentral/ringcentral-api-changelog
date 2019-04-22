@@ -119,6 +119,7 @@ a.toctree-l3 {
 
 .wy-menu-vertical .subnav a.toctree-l3 {
   margin-left: 40px;
+  display: none;
 }
 
 .wy-menu-vertical span {
