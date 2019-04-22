@@ -5,6 +5,7 @@
 }
  .wy-side-nav-search {
      background-color: #fff;
+     margin: 0px;
 }
  .wy-side-nav-search input[type=text] {
      background-image: url("./img/ico_search.png?1468643959");
@@ -32,23 +33,21 @@
 }
  .wy-menu-vertical {
      border: 1px solid #e8e8e8;
-     border-radius: 8px;
 }
  .wy-menu-vertical a {
      font-size: 14px;
      font-weight: 400;
      padding: 10px 0px;
      color: #585858;
-     border-bottom: 1px solid #e8e8e8;
 }
  .wy-menu-vertical a:visited {
      color: #585858;
 }
  .wy-menu-vertical a:hover {
-     background-color: #fff;
+     background-color: #f5f5f5;
 }
  .wy-menu-vertical li.toctree-l1 {
-     margin: 0 20px 0 30px;
+     margin: 0 20px 0 20px;
 }
  .wy-menu-vertical li.toctree-l3 {
      margin-left: 0px;
