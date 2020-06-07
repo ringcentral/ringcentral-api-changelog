@@ -4,4 +4,4 @@
 
 This document provides full information about API changes in particular version.
 
-Use navigation on the left side to review the version you want or see [the latest version](1_0_42.md) changes.
+Use navigation on the left side to review the version you want or see [the latest version](1_0_43.md) changes.
