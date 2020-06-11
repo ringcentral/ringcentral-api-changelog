@@ -31,6 +31,7 @@ markdown_extensions:
 #extra_javascript: [fonts.js]
 
 pages:
+<<<<<<< HEAD
 - Primary:
   - 'Preface': 'index.md'
   - 'v.1.0.42 (Feb 2020)': '1_0_42.md'
@@ -48,6 +49,25 @@ pages:
   - 'v.1.0.30 (Apr 2017)': '1_0_30.md'
   - 'v.1.0.29 (Feb 2017)': '1_0_29.md'
   - 'v.1.0.28 (Dec 2016)': '1_0_28.md'
+=======
+- Preface: 'index.md'
+- 'v.1.0.43 (May 2020)': '1_0_43.md'
+- 'v.1.0.42 (Feb 2020)': '1_0_42.md'
+- 'v.1.0.41 (Dec 2019)': '1_0_41.md'
+- 'v.1.0.40 (Aug 2019)': '1_0_40.md'
+- 'v.1.0.39 (May 2019)': '1_0_39.md'
+- 'v.1.0.38 (Feb 2019)': '1_0_38.md'
+- 'v.1.0.37 (Dec 2018)': '1_0_37.md'
+- 'v.1.0.36 (Aug 2018)': '1_0_36.md'
+- 'v.1.0.35 (Apr 2018)': '1_0_35.md'
+- 'v.1.0.34 (Feb 2018)': '1_0_34.md'
+- 'v.1.0.33 (Dec 2017)': '1_0_33.md'
+- 'v.1.0.32 (Oct 2017)': '1_0_32.md'
+- 'v.1.0.31 (Jul 2017)': '1_0_31.md'
+- 'v.1.0.30 (Apr 2017)': '1_0_30.md'
+- 'v.1.0.29 (Feb 2017)': '1_0_29.md'
+- 'v.1.0.28 (Dec 2016)': '1_0_28.md'
+>>>>>>> d1f82a5e05ae64b469d800ca984f66d74933e756
 
 - 'Secondary':
   - 'API Reference': 'https://developers.ringcentral.com/api-reference/'

@@ -21,3 +21,7 @@ Icons are used throughout the changelog to help you understand at a glance more 
 | ⭐️ | New API | |
 
 
+<<<<<<< HEAD
+=======
+Use navigation on the left side to review the version you want or see [the latest version](1_0_43.md) changes.
+>>>>>>> d1f82a5e05ae64b469d800ca984f66d74933e756
