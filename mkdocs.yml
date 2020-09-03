@@ -1,7 +1,7 @@
 site_name: RingCentral Office API Changelog
-site_url: https://github.com/ringcentral/ringcentral-api-changelog.git
+site_url: https://github.com/ringcentral/ringcentral-api-changelog
 site_favicon: favicon.ico
-repo_url: https://github.com/ringcentral/ringcentral-api-changelog.git
+repo_url: https://github.com/ringcentral/ringcentral-api-changelog
 docs_dir: docs
 
 plugins:
