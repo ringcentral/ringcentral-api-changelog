@@ -3,6 +3,7 @@
 This document provides full information about API changes in particular version.
 
 ## Versions
+* [1.0.44 (Release 20.3)](docs/1_0_44.md)
 * [1.0.43 (Release 20.2)](docs/1_0_43.md)
 * [1.0.42 (Release 20.1)](docs/1_0_42.md)
 * [1.0.41 (Release 19.4)](docs/1_0_41.md)
