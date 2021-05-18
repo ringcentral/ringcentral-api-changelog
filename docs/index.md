@@ -7,7 +7,7 @@ Welcome to the RingCentral Office API changelog provides developers with a detai
 * understand how change may potentially impact their code
 * learn about new APIs they might want to use
 
-<a href="1_0_46/" class="btn btn-primary">View lastest changelog &raquo;</a>
+<a href="1_0_47/" class="btn btn-primary">View lastest changelog &raquo;</a>
 
 ## Using the changelog
 
