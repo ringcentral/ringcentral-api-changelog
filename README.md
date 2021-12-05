@@ -3,6 +3,8 @@
 This document provides full information about API changes in particular version.
 
 ## Versions
+* [1.0.49 (Release 21.4)](docs/1_0_49.md)
+* [1.0.48 (Release 21.3)](docs/1_0_48.md)
 * [1.0.47 (Release 21.2)](docs/1_0_47.md)
 * [1.0.46 (Release 21.1)](docs/1_0_46.md)
 * [1.0.45 (Release 20.4)](docs/1_0_45.md)
